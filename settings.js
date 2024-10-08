@@ -2,26 +2,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348024906596"
-global.ownername = "🃏Joker🃏"
+global.ownernomer = "234 703 411 9314"
+global.ownername = "kingvirus 👾"
 global.ytname = "YT: Resonex"
-global.socialm = "GitHub: Joker-Reincarnated"
-global.location = "Nigeria, Lagos, Ikeja"
+global.socialm = "GitHub: kingvirus"
+global.location = "Nigeria"
 
-global.ownernumber = '2349168929037'  //creator number
-global.ownername = '🃏Joker🃏' //owner name
+global.ownernumber = '234 703 411 9314'  //creator number
+global.ownername = 'kingvirus👾' //owner name
 global.botname = '☣️ Toxic MD' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🃏Joker🃏 \n\nContact: +2348024906596'
+global.author = '🃏Joker🃏 \n\nContact: +234 703 411 9314'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "🃏Joker🃏"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaN8F9MG8l5KA9Jx0Q0X'
+global.link = ''
 
 //custom prefix
 global.prefa = ['']
