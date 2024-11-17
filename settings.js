@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "234 703 411 9314"
+global.ownernomer = "2347086731800"
 global.ownername = "kingvirus 👾"
-global.ytname = "YT: Resonex"
-global.socialm = "GitHub: kingvirus"
+global.ytname = "YT:"
+global.socialm = "GitHub: kingvirus0"
 global.location = "Nigeria"
 
-global.ownernumber = '234 703 411 9314'  //creator number
+global.ownernumber = '2347086731800'  //creator number
 global.ownername = 'kingvirus👾' //owner name
-global.botname = '☣️ Toxic MD' //name of the bot
+global.botname = ' 👑 kingvirus v1' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🃏Joker🃏 \n\nContact: +234 703 411 9314'
+global.author = '🃏Joker🃏 \n\nContact: +2347086731800'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -31,8 +31,8 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
-global.anti92 = true //auto block +92 
+global.autobio = false //auto update bio
+global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
 //menu type 
